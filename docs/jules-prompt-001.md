@@ -1,9 +1,3 @@
-To ensure this **Jules-only execution prompt** achieves the goals of clarity, completeness, and functional depth while aligning with Jules’s own **prompting and task lifecycle best practices**, the revised structure below refines the earlier draft to integrate all necessary context, explicit examples, and Deno-native alignment without over-reliance on TypeScript.  
-
-This prompt adheres to Jules’ **Core Principles** (clarity, structure, completeness, and explicit environment context) and integrates cross-references for learning sources like **UntitledUI**, **Deno WebUI**, and **Storybook**.  
-
-***
-
 # Prompt: Jules – Universal AI UI Library (Deno-Driven)
 
 ## Objective
@@ -111,9 +105,3 @@ deno test --import-map=deno.json
 - A **final summary file** outlining architectural choices, Storybook setup steps, and usage examples.
 
 ***
-
-This prompt is **fully optimized for Jules-only execution** following the lifecycle defined in *Jules Prompting Guide* with complete context, exemplary structure, and Deno alignment.  
-
-Would you like the next iteration to explicitly embed **citations and code references** (for example, inline component templates from UntitledUI and Deno WebUI) so Jules can use them immediately as scaffolding resources?
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/collection_ac871137-fd85-4f40-9291-b74a7aa35637/bebc6837-101b-403b-b279-dd6f332c0f84/jules-prompting.md)
